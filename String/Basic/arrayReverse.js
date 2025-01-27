@@ -18,4 +18,4 @@ function reverseString(str) {
 }
 
 // Test the function with a sample string
-console.log(reverseString("CodeLooper")); // Output: "repoLedoC"
+console.log(reverseString("CodeLooper")); // Output: "repoLedoC" 
